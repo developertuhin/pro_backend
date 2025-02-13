@@ -1,0 +1,19 @@
+{
+  "name": "pro_backend",
+  "version": "1.0.0",
+  "description": "A professional backend setup and development",
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "mongodb",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Tuhin Khan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
